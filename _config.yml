@@ -1,11 +1,11 @@
 # Site settings
 author: Seth Todd
-title: 
+title: Some Guy Learning to Code
 header-img: img/home-bg.png
 email: seth.todd@outlook.com
 copyright_name: Seth Todd
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Blog of Seth Todd about my experience learning to Code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  satodd1967
