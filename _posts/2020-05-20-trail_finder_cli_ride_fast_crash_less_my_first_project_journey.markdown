@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "**Trail Finder CLI "Ride Fast Crash Less" my first project journey.**"
-date:       2020-05-20 17:24:46 +0000
+date:       2020-05-20 13:24:47 -0400
 permalink:  trail_finder_cli_ride_fast_crash_less_my_first_project_journey
 ---
 
