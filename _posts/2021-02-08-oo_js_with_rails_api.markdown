@@ -1,0 +1,14 @@
+---
+layout: post
+title:      "OO JS with Rails API"
+date:       2021-02-08 22:12:55 +0000
+permalink:  oo_js_with_rails_api
+---
+
+
+Sooo the story of my Object Oriented Javascript with a rails API backend project.
+I started the project excited to take my previous rails project and convert it to a single page app with javascript because it’s ultimately an app that I actually want to use long term. I took a Friday off and spent all Friday, Saturday and Sunday morning working feverishly to make it happen. Somewhere around Sunday afternoon I realized that without the concepts to be learned in the final section of the course this was going to be a herculean effort. I decided to trash it and start over with something I could complete within my limited amount of time.
+By Sunday I was very annoyed with how much money I had spend in the three day window on Door Dash trying to avoid getting up to find food somewhere or go to the grocery store. Inspiration hits in the strangest ways. I decided to do a Door Dash clone. SlopSled was born…clearly I was frustrated with Door Dash at this point :)
+Turns out this was pretty ambitious as well in relation to the fairly simple requirements and the and the quickly approaching end of my course. I decided to cut it down quite a bit. It still covered allot more than the requirements, but wasn’t too crazy. User should be able to start an order, choose categories, choose restaurants, choose dishes, add them to an order, see the subtotal, tax and total and be able to faux checkout.
+Seems like I always have the same development workflow. Start…”I have no idea what I’m doing, I have learned nothing in this section. Watch any video on flatiron I can find and on youtube associated…”Ok that gives me a place to start at least…”wait my app doesn’t follow this structure at all, I’m good Ill just google this S#$%^”. Build a massive VS code oven full of spaghetti code that somehow with duct tape, super glue, hopes and dreams and blind luck translates to the user experience that was expected. Freak out about the fact that I have no idea whatsoever how to refactor this mish mash of nonsense and you’re all going to laugh at me. Watch hours and hours of videos and youtube and then something clicks a bit and things start to sort themselves out, always with many questions left over.
+I think with this project I’m left with the most questions vs. any other because out of all the content I watched there truly does seem to be many many approaches on how to solve this problem. I don’t think mine is necessarily the most effective, but it was built around the requirements and also within the timeline. There is still allot of refactoring that could be done, but I think its in a pretty good place. Hopefully the code review will go well.![](![](http://)http://)
